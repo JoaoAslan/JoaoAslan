@@ -4,8 +4,8 @@
           📁 Users
               📁 JoaoAslan
                   📁 Desktop
-                  📄 intmpython.py
-                  📄 beghtmlcss.html
-                  📄 basicjson.json
-                  📄 basicgit.git
+                  📄 intermediary-python.py
+                  📄 begginer-htmlcss.html
+                  📄 basic-json.json
+                  📄 basic-git.git
                  
